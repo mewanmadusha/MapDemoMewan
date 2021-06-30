@@ -1,0 +1,60 @@
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Test</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+
+  <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+
+  <style>
+    #map1 {
+      height: 1000px;
+      width: 1000px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="map1"></div>
+
+  <script type="text/javascript">
+    var mymap = L.map("map1").setView(
+      [53.38990217507112, -1.4678754021987857],
+      6
+    );
+
+    L.tileLayer(
+      "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
+      {
+        attribution:
+          'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 18,
+        id: "mapbox/streets-v11",
+        tileSize: 512,
+        zoomOffset: -1,
+        accessToken:
+          "pk.eyJ1IjoiY29kZXBvcGUiLCJhIjoiY2tla2kxMWZ6MmdhczJybHR3YzZ1NHk1ZSJ9.zPt2svkniV_VqE9VS9xqjw",
+      }
+    ).addTo(mymap);
+
+    var featureStyle = {
+      color: "#ff7800",
+      weight: 5,
+      opacity: 0.2,
+    };
+
+    var geojsonLayer = new L.GeoJSON.AJAX("https://reverent-hugle-a3f17d.netlify.app/geodata.json", {
+      pointToLayer: function (geoJsonPoint, latlng) {
+        return L.marker(latlng).bindPopup("<p><b>Name:</b>" + geoJsonPoint.properties.name + "<p><b>Area:</b>" + geoJsonPoint.properties.area + "<p><b>Pubs:</b>" + geoJsonPoint.properties.pub_count);
+      }
+    });
+    geojsonLayer.addTo(mymap);
+
+  </script>
+</body>

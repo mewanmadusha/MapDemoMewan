@@ -1,0 +1,5492 @@
+{ "type": "FeatureCollection", "features": [
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.211495, 
+            53.62714
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brown Cow", 
+        "area" : "Rochdale", 
+        "pub_count" : 194.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.60203, 
+            51.510899
+        ]
+    }, 
+    "properties" : {
+        "name" : "Buzz Bingo", 
+        "area" : "Slough", 
+        "pub_count" : 26.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.148408, 
+            51.795477
+        ]
+    }, 
+    "properties" : {
+        "name" : "Amy's", 
+        "area" : "Tendring", 
+        "pub_count" : 99.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.10373, 
+            50.956069
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brickmakers Arms", 
+        "area" : "Wealden", 
+        "pub_count" : 155.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.797376, 
+            50.729809
+        ]
+    }, 
+    "properties" : {
+        "name" : "Athelstan Arms", 
+        "area" : "Bournemouth, Christchurch and Poole", 
+        "pub_count" : 201.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.295759, 
+            50.88097
+        ]
+    }, 
+    "properties" : {
+        "name" : "The Old Ship Inn", 
+        "area" : "Fareham", 
+        "pub_count" : 57.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.114267, 
+            52.764655
+        ]
+    }, 
+    "properties" : {
+        "name" : "Crown Public House", 
+        "area" : "Broadland", 
+        "pub_count" : 75.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.528095, 
+            52.409367
+        ]
+    }, 
+    "properties" : {
+        "name" : "Arches Venue", 
+        "area" : "Coventry", 
+        "pub_count" : 189.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.366426, 
+            51.436559
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bat & Ball Public House", 
+        "area" : "Gravesham", 
+        "pub_count" : 87.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.219407, 
+            51.503881
+        ]
+    }, 
+    "properties" : {
+        "name" : "Belushi's", 
+        "area" : "Hammersmith and Fulham", 
+        "pub_count" : 122.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.352173, 
+            53.386728
+        ]
+    }, 
+    "properties" : {
+        "name" : "Belgian Bar", 
+        "area" : "Trafford", 
+        "pub_count" : 145.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.718892, 
+            52.468696
+        ]
+    }, 
+    "properties" : {
+        "name" : "Great Oakley Cricket Club", 
+        "area" : "Corby", 
+        "pub_count" : 41.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.862891, 
+            53.753622
+        ]
+    }, 
+    "properties" : {
+        "name" : "Coach and Horses", 
+        "area" : "Fylde", 
+        "pub_count" : 70.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.277624, 
+            52.927815
+        ]
+    }, 
+    "properties" : {
+        "name" : "Admiral Sir John Borlase Warren", 
+        "area" : "Broxtowe", 
+        "pub_count" : 81.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.313037, 
+            50.710041
+        ]
+    }, 
+    "properties" : {
+        "name" : "Camphill Community Sports Club CIC", 
+        "area" : "Isle of Wight", 
+        "pub_count" : 204.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.893444, 
+            52.47094
+        ]
+    }, 
+    "properties" : {
+        "name" : "Aura Lounge Birmingham", 
+        "area" : "Birmingham", 
+        "pub_count" : 475.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.234159, 
+            54.5768
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar Cuda", 
+        "area" : "Middlesbrough", 
+        "pub_count" : 111.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.208646, 
+            51.42256
+        ]
+    }, 
+    "properties" : {
+        "name" : "All Bar One", 
+        "area" : "Merton", 
+        "pub_count" : 63.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.93446, 
+            51.004344
+        ]
+    }, 
+    "properties" : {
+        "name" : "Folly Bar", 
+        "area" : "East Hampshire", 
+        "pub_count" : 125.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.128012, 
+            52.369829
+        ]
+    }, 
+    "properties" : {
+        "name" : "Diss Cue Club Ltd", 
+        "area" : "South Norfolk", 
+        "pub_count" : 106.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.58714, 
+            53.855203
+        ]
+    }, 
+    "properties" : {
+        "name" : "Adel War Memorial Association Ltd", 
+        "area" : "Leeds", 
+        "pub_count" : 594.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.556453, 
+            54.523562
+        ]
+    }, 
+    "properties" : {
+        "name" : "Harvey's", 
+        "area" : "Darlington", 
+        "pub_count" : 105.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.200977, 
+            52.549252
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bowling Green", 
+        "area" : "Fenland", 
+        "pub_count" : 90.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.114918, 
+            51.775706
+        ]
+    }, 
+    "properties" : {
+        "name" : "Essex Skipper", 
+        "area" : "Harlow", 
+        "pub_count" : 64.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.309394, 
+            52.969292
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar Vida", 
+        "area" : "Erewash", 
+        "pub_count" : 119.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.246148, 
+            51.3922
+        ]
+    }, 
+    "properties" : {
+        "name" : "Fulham Football Club Foundation", 
+        "area" : "Kingston upon Thames", 
+        "pub_count" : 110.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.40621, 
+            51.688392
+        ]
+    }, 
+    "properties" : {
+        "name" : "Abercwmboi Social Club", 
+        "area" : "Rhondda Cynon Taf", 
+        "pub_count" : 305.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.06807, 
+            53.78536
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bay Horse Hotel", 
+        "area" : "Selby", 
+        "pub_count" : 63.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.264357, 
+            51.334668
+        ]
+    }, 
+    "properties" : {
+        "name" : "The Rifleman", 
+        "area" : "Epsom and Ewell", 
+        "pub_count" : 25.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.272888, 
+            52.936103
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bernies Members Club", 
+        "area" : "North Norfolk", 
+        "pub_count" : 150.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.10918, 
+            51.526103
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cafe Kick", 
+        "area" : "Islington", 
+        "pub_count" : 174.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.380697, 
+            53.743857
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brownies", 
+        "area" : "Kingston upon Hull, City of", 
+        "pub_count" : 184.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.921942, 
+            52.265225
+        ]
+    }, 
+    "properties" : {
+        "name" : "Astwood Bank Cricket Club", 
+        "area" : "Stratford-on-Avon", 
+        "pub_count" : 188.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.013653, 
+            51.711436
+        ]
+    }, 
+    "properties" : {
+        "name" : "Horseshoe Inn", 
+        "area" : "Torfaen", 
+        "pub_count" : 101.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.390392, 
+            51.094193
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brown Trout", 
+        "area" : "Tunbridge Wells", 
+        "pub_count" : 86.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.119229, 
+            51.516419
+        ]
+    }, 
+    "properties" : {
+        "name" : "All Bar One", 
+        "area" : "Camden", 
+        "pub_count" : 280.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.338339, 
+            53.483081
+        ]
+    }, 
+    "properties" : {
+        "name" : "Albert Edward Inn", 
+        "area" : "Salford", 
+        "pub_count" : 183.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.282231, 
+            51.500996
+        ]
+    }, 
+    "properties" : {
+        "name" : "Gunnersbury Triangle Sports & Social Club", 
+        "area" : "Hounslow", 
+        "pub_count" : 129.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.267051, 
+            51.526447
+        ]
+    }, 
+    "properties" : {
+        "name" : "Addictive", 
+        "area" : "Ealing", 
+        "pub_count" : 147.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.607036, 
+            51.664586
+        ]
+    }, 
+    "properties" : {
+        "name" : "The Chequers", 
+        "area" : "Chiltern", 
+        "pub_count" : 70.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.596945, 
+            53.617352
+        ]
+    }, 
+    "properties" : {
+        "name" : "Elephant And Castle", 
+        "area" : "Chorley", 
+        "pub_count" : 108.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.881666, 
+            55.751327
+        ]
+    }, 
+    "properties" : {
+        "name" : "Auld Store Bar", 
+        "area" : "South Lanarkshire", 
+        "pub_count" : 243.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.319492, 
+            51.692593
+        ]
+    }, 
+    "properties" : {
+        "name" : "Baptist Church", 
+        "area" : "Brentwood", 
+        "pub_count" : 103.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.213508, 
+            51.733465
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cowley Workers Social Club", 
+        "area" : "Oxford", 
+        "pub_count" : 141.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.418864, 
+            51.42401
+        ]
+    }, 
+    "properties" : {
+        "name" : "Hare And Hounds", 
+        "area" : "Spelthorne", 
+        "pub_count" : 58.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.941068, 
+            52.30661
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar Fever", 
+        "area" : "Redditch", 
+        "pub_count" : 51.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.843635, 
+            60.764969
+        ]
+    }, 
+    "properties" : {
+        "name" : "Balta Light Ltd", 
+        "area" : "Shetland Islands", 
+        "pub_count" : 27.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.334739, 
+            53.412381
+        ]
+    }, 
+    "properties" : {
+        "name" : "Adelphi Vaults", 
+        "area" : "Isle of Anglesey", 
+        "pub_count" : 86.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.561029, 
+            54.88993
+        ]
+    }, 
+    "properties" : {
+        "name" : "Board Inn", 
+        "area" : "Gateshead", 
+        "pub_count" : 184.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.480674, 
+            51.339679
+        ]
+    }, 
+    "properties" : {
+        "name" : "Queens Head Public House", 
+        "area" : "Woking", 
+        "pub_count" : 60.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.391104, 
+            51.440121
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bell At Boxford, The", 
+        "area" : "West Berkshire", 
+        "pub_count" : 151.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.177539, 
+            54.157134
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar 20", 
+        "area" : "Barrow-in-Furness", 
+        "pub_count" : 103.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.712848, 
+            51.385868
+        ]
+    }, 
+    "properties" : {
+        "name" : "Aspire Lounge @ Bristol Airport", 
+        "area" : "North Somerset", 
+        "pub_count" : 203.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.516523, 
+            51.537338
+        ]
+    }, 
+    "properties" : {
+        "name" : "Black Horse", 
+        "area" : "South Bucks", 
+        "pub_count" : 62.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.293911, 
+            52.676188
+        ]
+    }, 
+    "properties" : {
+        "name" : "Deepings Bowling Association", 
+        "area" : "South Kesteven", 
+        "pub_count" : 138.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.3649, 
+            51.380834
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bath Brew House", 
+        "area" : "Bath and North East Somerset", 
+        "pub_count" : 164.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.462439, 
+            52.524403
+        ]
+    }, 
+    "properties" : {
+        "name" : "Atack Snooker Club", 
+        "area" : "Nuneaton and Bedworth", 
+        "pub_count" : 104.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.954265, 
+            52.610091
+        ]
+    }, 
+    "properties" : {
+        "name" : "Aldridge Sailing Club", 
+        "area" : "Walsall", 
+        "pub_count" : 194.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.597569, 
+            51.758289
+        ]
+    }, 
+    "properties" : {
+        "name" : "Carterton Social Centre Club", 
+        "area" : "West Oxfordshire", 
+        "pub_count" : 109.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.46, 
+            53.288637
+        ]
+    }, 
+    "properties" : {
+        "name" : "Pleasant View Club", 
+        "area" : "Denbighshire", 
+        "pub_count" : 57.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.055132, 
+            51.646907
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cafe Hope, St Marys Church", 
+        "area" : "Epping Forest", 
+        "pub_count" : 155.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.738145, 
+            51.210503
+        ]
+    }, 
+    "properties" : {
+        "name" : "British Legion Seale & Sands", 
+        "area" : "Guildford", 
+        "pub_count" : 101.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.072156, 
+            50.705691
+        ]
+    }, 
+    "properties" : {
+        "name" : "All Hat But No Cattle", 
+        "area" : "East Devon", 
+        "pub_count" : 159.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.109851, 
+            51.611515
+        ]
+    }, 
+    "properties" : {
+        "name" : "Barosi", 
+        "area" : "Enfield", 
+        "pub_count" : 160.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.633465, 
+            55.749327
+        ]
+    }, 
+    "properties" : {
+        "name" : "Beith Bowling Club", 
+        "area" : "North Ayrshire", 
+        "pub_count" : 157.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.268713, 
+            52.615009
+        ]
+    }, 
+    "properties" : {
+        "name" : "Blue Bell", 
+        "area" : "Peterborough", 
+        "pub_count" : 87.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.397573, 
+            53.373191
+        ]
+    }, 
+    "properties" : {
+        "name" : "Anglers Rest", 
+        "area" : "Sheffield", 
+        "pub_count" : 319.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.734979, 
+            52.389298
+        ]
+    }, 
+    "properties" : {
+        "name" : "Greswolde Hotel", 
+        "area" : "Solihull", 
+        "pub_count" : 127.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.074726, 
+            51.601916
+        ]
+    }, 
+    "properties" : {
+        "name" : "Antwerp Arms", 
+        "area" : "Haringey", 
+        "pub_count" : 92.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.063512, 
+            52.332427
+        ]
+    }, 
+    "properties" : {
+        "name" : "57 Monkeys", 
+        "area" : "Bromsgrove", 
+        "pub_count" : 99.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.75252, 
+            56.107501
+        ]
+    }, 
+    "properties" : {
+        "name" : "County Bar", 
+        "area" : "Clackmannanshire", 
+        "pub_count" : 49.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.355413, 
+            51.643806
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bushey Bowling Club", 
+        "area" : "Hertsmere", 
+        "pub_count" : 45.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.054696, 
+            53.076799
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brymbo Conservative Club", 
+        "area" : "Wrexham", 
+        "pub_count" : 86.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.910989, 
+            53.43026
+        ]
+    }, 
+    "properties" : {
+        "name" : "51 Mill Lane", 
+        "area" : "Liverpool", 
+        "pub_count" : 406.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.953888, 
+            53.079021
+        ]
+    }, 
+    "properties" : {
+        "name" : "Admiral Rodney Hotel", 
+        "area" : "Newark and Sherwood", 
+        "pub_count" : 135.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.385246, 
+            55.601757
+        ]
+    }, 
+    "properties" : {
+        "name" : "Barwood Grill@The Standalane Tavern", 
+        "area" : "East Ayrshire", 
+        "pub_count" : 43.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.743906, 
+            51.338085
+        ]
+    }, 
+    "properties" : {
+        "name" : "CLAUDE DU VALL", 
+        "area" : "Surrey Heath", 
+        "pub_count" : 45.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.696184, 
+            50.452122
+        ]
+    }, 
+    "properties" : {
+        "name" : "Dartington Sports Club", 
+        "area" : "South Hams", 
+        "pub_count" : 133.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.816885, 
+            53.321356
+        ]
+    }, 
+    "properties" : {
+        "name" : "Broadway Boulevard", 
+        "area" : "Conwy", 
+        "pub_count" : 179.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.584172, 
+            54.526443
+        ]
+    }, 
+    "properties" : {
+        "name" : "Greenbank P & M Club", 
+        "area" : "Copeland", 
+        "pub_count" : 109.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.240738, 
+            53.788455
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bootleggers", 
+        "area" : "Burnley", 
+        "pub_count" : 100.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.4987, 
+            53.845805
+        ]
+    }, 
+    "properties" : {
+        "name" : "Altisidora", 
+        "area" : "East Riding of Yorkshire", 
+        "pub_count" : 436.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -6.389209, 
+            58.20816
+        ]
+    }, 
+    "properties" : {
+        "name" : "Criterion Bar", 
+        "area" : "Na h-Eileanan Siar", 
+        "pub_count" : 15.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.579929, 
+            51.501179
+        ]
+    }, 
+    "properties" : {
+        "name" : "Association Of Bridgend Bowls, Tennis & Squash Clubs Community Interest Company", 
+        "area" : "Bridgend", 
+        "pub_count" : 157.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.107732, 
+            52.582243
+        ]
+    }, 
+    "properties" : {
+        "name" : "Old Crown Inn", 
+        "area" : "Oadby and Wigston", 
+        "pub_count" : 29.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.313668, 
+            50.856876
+        ]
+    }, 
+    "properties" : {
+        "name" : "HAMBLE RIVER S C FOOD INC", 
+        "area" : "Eastleigh", 
+        "pub_count" : 78.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.517101, 
+            50.394409
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brixham Conservative Club", 
+        "area" : "Torbay", 
+        "pub_count" : 78.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.314282, 
+            53.692196
+        ]
+    }, 
+    "properties" : {
+        "name" : "Ambience", 
+        "area" : "Wakefield", 
+        "pub_count" : 315.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.266813, 
+            52.401255
+        ]
+    }, 
+    "properties" : {
+        "name" : "The High Flyer", 
+        "area" : "East Cambridgeshire", 
+        "pub_count" : 66.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.216777, 
+            51.620624
+        ]
+    }, 
+    "properties" : {
+        "name" : "Camden Playing Fields Sports And Social Club", 
+        "area" : "Barnet", 
+        "pub_count" : 123.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.077224, 
+            52.255972
+        ]
+    }, 
+    "properties" : {
+        "name" : "Elsworth Sports Club", 
+        "area" : "South Cambridgeshire", 
+        "pub_count" : 106.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.67507, 
+            51.73203
+        ]
+    }, 
+    "properties" : {
+        "name" : "Carpenters Arms", 
+        "area" : "Maldon", 
+        "pub_count" : 64.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.360172, 
+            52.745755
+        ]
+    }, 
+    "properties" : {
+        "name" : "Hare And Hounds", 
+        "area" : "North West Leicestershire", 
+        "pub_count" : 96.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.993972, 
+            53.845996
+        ]
+    }, 
+    "properties" : {
+        "name" : "BULL HOTEL", 
+        "area" : "Wyre", 
+        "pub_count" : 97.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.863036, 
+            52.241699
+        ]
+    }, 
+    "properties" : {
+        "name" : "Abington Bowling Club", 
+        "area" : "Northampton", 
+        "pub_count" : 132.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.485634, 
+            52.962763
+        ]
+    }, 
+    "properties" : {
+        "name" : "19th Hole Golf Club", 
+        "area" : "Derby", 
+        "pub_count" : 200.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.060444, 
+            55.944077
+        ]
+    }, 
+    "properties" : {
+        "name" : "Anchor Bar", 
+        "area" : "East Lothian", 
+        "pub_count" : 96.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.014535, 
+            51.517181
+        ]
+    }, 
+    "properties" : {
+        "name" : "Beckton Arms", 
+        "area" : "Newham", 
+        "pub_count" : 61.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.137833, 
+            51.461563
+        ]
+    }, 
+    "properties" : {
+        "name" : "Be At One Bar \\& Lounge", 
+        "area" : "Lambeth", 
+        "pub_count" : 177.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.559702, 
+            55.023048
+        ]
+    }, 
+    "properties" : {
+        "name" : "Forest Hall Ex Servicemen Institute", 
+        "area" : "North Tyneside", 
+        "pub_count" : 136.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.996513, 
+            56.497081
+        ]
+    }, 
+    "properties" : {
+        "name" : "Strathmartine Bowling Club", 
+        "area" : "Dundee City", 
+        "pub_count" : 186.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.476466, 
+            53.700676
+        ]
+    }, 
+    "properties" : {
+        "name" : "Alexandra Hotel", 
+        "area" : "Blackburn with Darwen", 
+        "pub_count" : 122.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.487228, 
+            51.572663
+        ]
+    }, 
+    "properties" : {
+        "name" : "Basildon & Pitsea Cricket Club", 
+        "area" : "Basildon", 
+        "pub_count" : 74.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -5.607094, 
+            55.425672
+        ]
+    }, 
+    "properties" : {
+        "name" : "Kilbrannan Bar", 
+        "area" : "Argyll and Bute", 
+        "pub_count" : 72.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.582177, 
+            52.383333
+        ]
+    }, 
+    "properties" : {
+        "name" : "Duke's Arms", 
+        "area" : "East Northamptonshire", 
+        "pub_count" : 103.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.837672, 
+            52.233129
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bear Inn", 
+        "area" : "Mid Suffolk", 
+        "pub_count" : 82.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.406124, 
+            51.532131
+        ]
+    }, 
+    "properties" : {
+        "name" : "Barnhill Community Centre", 
+        "area" : "Hillingdon", 
+        "pub_count" : 146.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.854556, 
+            52.962949
+        ]
+    }, 
+    "properties" : {
+        "name" : "Durham Ox", 
+        "area" : "Rushcliffe", 
+        "pub_count" : 70.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.21631, 
+            51.924063
+        ]
+    }, 
+    "properties" : {
+        "name" : "Corey's Mill Beefeater", 
+        "area" : "Stevenage", 
+        "pub_count" : 40.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.779062, 
+            50.845303
+        ]
+    }, 
+    "properties" : {
+        "name" : "115 CHILDCARE SERVICES LTD", 
+        "area" : "New Forest", 
+        "pub_count" : 178.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.780375, 
+            51.555975
+        ]
+    }, 
+    "properties" : {
+        "name" : "Beehive Public House", 
+        "area" : "Swindon", 
+        "pub_count" : 118.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.519418, 
+            53.067037
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bowling Green", 
+        "area" : "Cheshire East", 
+        "pub_count" : 284.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -5.261504, 
+            51.884098
+        ]
+    }, 
+    "properties" : {
+        "name" : "City Inn", 
+        "area" : "Pembrokeshire", 
+        "pub_count" : 162.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.142691, 
+            51.495785
+        ]
+    }, 
+    "properties" : {
+        "name" : "Apollo Victoria Theatre", 
+        "area" : "Westminster", 
+        "pub_count" : 350.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.125294, 
+            52.646779
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bombay Nights Dance Bar", 
+        "area" : "Leicester", 
+        "pub_count" : 174.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.166075, 
+            53.853649
+        ]
+    }, 
+    "properties" : {
+        "name" : "Admiral Lord Rodney", 
+        "area" : "Pendle", 
+        "pub_count" : 80.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.039895, 
+            52.718182
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cannock Rugby Union F.C", 
+        "area" : "South Staffordshire", 
+        "pub_count" : 123.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.276177, 
+            50.831714
+        ]
+    }, 
+    "properties" : {
+        "name" : "Crown And Anchor", 
+        "area" : "Adur", 
+        "pub_count" : 44.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.875593, 
+            52.582937
+        ]
+    }, 
+    "properties" : {
+        "name" : "Carbrooke Village Social Club", 
+        "area" : "Breckland", 
+        "pub_count" : 108.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.362962, 
+            51.707468
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bricket Wood Social Club", 
+        "area" : "St Albans", 
+        "pub_count" : 120.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.900116, 
+            52.670502
+        ]
+    }, 
+    "properties" : {
+        "name" : "Hammerwich Cricket Club", 
+        "area" : "Lichfield", 
+        "pub_count" : 129.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.199134, 
+            53.702177
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bacup Conservative Club", 
+        "area" : "Rossendale", 
+        "pub_count" : 78.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.28347, 
+            51.399754
+        ]
+    }, 
+    "properties" : {
+        "name" : "Baruc Arms", 
+        "area" : "Vale of Glamorgan", 
+        "pub_count" : 128.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.274836, 
+            52.35895
+        ]
+    }, 
+    "properties" : {
+        "name" : "Gilt Edge Club Leisure Centre Ltd", 
+        "area" : "Wyre Forest", 
+        "pub_count" : 111.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.116274, 
+            50.775609
+        ]
+    }, 
+    "properties" : {
+        "name" : "Downs 60+ Club", 
+        "area" : "Lewes", 
+        "pub_count" : 101.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.236388, 
+            52.065702
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bell Inn", 
+        "area" : "East Suffolk", 
+        "pub_count" : 225.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.545209, 
+            50.806053
+        ]
+    }, 
+    "properties" : {
+        "name" : "Arun Yacht Club", 
+        "area" : "Arun", 
+        "pub_count" : 109.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.007578, 
+            51.59173
+        ]
+    }, 
+    "properties" : {
+        "name" : "Allt-yr-yn Lawn Tennis Club", 
+        "area" : "Newport", 
+        "pub_count" : 113.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.20356, 
+            53.037033
+        ]
+    }, 
+    "properties" : {
+        "name" : "Boatswaines", 
+        "area" : "Ashfield", 
+        "pub_count" : 95.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.143127, 
+            51.107491
+        ]
+    }, 
+    "properties" : {
+        "name" : "Coaching Halt", 
+        "area" : "Crawley", 
+        "pub_count" : 54.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.39227, 
+            51.543295
+        ]
+    }, 
+    "properties" : {
+        "name" : "Chipping Sodbury Town Football Club", 
+        "area" : "South Gloucestershire", 
+        "pub_count" : 197.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.490972, 
+            51.401152
+        ]
+    }, 
+    "properties" : {
+        "name" : "Age UK Medway", 
+        "area" : "Medway", 
+        "pub_count" : 113.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -6.31663, 
+            49.914791
+        ]
+    }, 
+    "properties" : {
+        "name" : "Jacks Micro Bar", 
+        "area" : "Isles of Scilly", 
+        "pub_count" : 10.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.228599, 
+            52.197278
+        ]
+    }, 
+    "properties" : {
+        "name" : "Barbourne Ex-Servicemens Club", 
+        "area" : "Worcester", 
+        "pub_count" : 100.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.424692, 
+            52.831954
+        ]
+    }, 
+    "properties" : {
+        "name" : "Hardinge Arms", 
+        "area" : "South Derbyshire", 
+        "pub_count" : 109.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.969608, 
+            51.454638
+        ]
+    }, 
+    "properties" : {
+        "name" : "Escape Room", 
+        "area" : "Reading", 
+        "pub_count" : 117.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.021866, 
+            51.978461
+        ]
+    }, 
+    "properties" : {
+        "name" : "Hare And Hounds", 
+        "area" : "Babergh", 
+        "pub_count" : 93.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.952561, 
+            52.36085
+        ]
+    }, 
+    "properties" : {
+        "name" : "Baron Of Bucknell", 
+        "area" : "Shropshire", 
+        "pub_count" : 406.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.917699, 
+            52.477899
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cellar 44", 
+        "area" : "Harborough", 
+        "pub_count" : 69.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.825509, 
+            53.662418
+        ]
+    }, 
+    "properties" : {
+        "name" : "Black Bull", 
+        "area" : "Kirklees", 
+        "pub_count" : 528.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.474737, 
+            51.731215
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar And Beyond", 
+        "area" : "Chelmsford", 
+        "pub_count" : 129.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.061883, 
+            53.54649
+        ]
+    }, 
+    "properties" : {
+        "name" : "Austerlands Institute", 
+        "area" : "Oldham", 
+        "pub_count" : 245.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.995992, 
+            51.128624
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bunch of Grapes", 
+        "area" : "Sedgemoor", 
+        "pub_count" : 164.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.257295, 
+            53.407995
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar Bibo", 
+        "area" : "Manchester", 
+        "pub_count" : 342.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.137307, 
+            54.599111
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cafe Bar 26", 
+        "area" : "Allerdale", 
+        "pub_count" : 116.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.689001, 
+            55.860973
+        ]
+    }, 
+    "properties" : {
+        "name" : "Croftmalloch Inn", 
+        "area" : "West Lothian", 
+        "pub_count" : 44.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.135867, 
+            51.648357
+        ]
+    }, 
+    "properties" : {
+        "name" : "Abercarn Rugby Club", 
+        "area" : "Caerphilly", 
+        "pub_count" : 225.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.057591, 
+            55.892265
+        ]
+    }, 
+    "properties" : {
+        "name" : "Dalkeith Miners Welfare Club", 
+        "area" : "Midlothian", 
+        "pub_count" : 49.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.29945, 
+            51.309239
+        ]
+    }, 
+    "properties" : {
+        "name" : "Leg Of Mutton And Cauliflower (Ph)", 
+        "area" : "Mole Valley", 
+        "pub_count" : 64.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.186371, 
+            51.087132
+        ]
+    }, 
+    "properties" : {
+        "name" : "Folkestone Railway Social Club", 
+        "area" : "Folkestone and Hythe", 
+        "pub_count" : 140.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.312553, 
+            52.131202
+        ]
+    }, 
+    "properties" : {
+        "name" : "Malvern  Cricket Club", 
+        "area" : "Malvern Hills", 
+        "pub_count" : 110.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.667774, 
+            53.684296
+        ]
+    }, 
+    "properties" : {
+        "name" : "Alkborough Coronation Club", 
+        "area" : "North Lincolnshire", 
+        "pub_count" : 132.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.009451, 
+            53.647015
+        ]
+    }, 
+    "properties" : {
+        "name" : "Banff", 
+        "area" : "Sefton", 
+        "pub_count" : 237.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.777491, 
+            54.246005
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bay Horse Inn", 
+        "area" : "Ryedale", 
+        "pub_count" : 85.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.255218, 
+            51.416093
+        ]
+    }, 
+    "properties" : {
+        "name" : "Box Bowls Club", 
+        "area" : "Wiltshire", 
+        "pub_count" : 538.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.133847, 
+            51.445278
+        ]
+    }, 
+    "properties" : {
+        "name" : "Anchor", 
+        "area" : "Bexley", 
+        "pub_count" : 122.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.119115, 
+            52.805633
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bird In Hand", 
+        "area" : "Stafford", 
+        "pub_count" : 159.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.521751, 
+            51.274339
+        ]
+    }, 
+    "properties" : {
+        "name" : "Ashes Sports Bar", 
+        "area" : "Maidstone", 
+        "pub_count" : 126.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.156598, 
+            53.411819
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bakers Vaults", 
+        "area" : "Stockport", 
+        "pub_count" : 154.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.112771, 
+            51.524986
+        ]
+    }, 
+    "properties" : {
+        "name" : "Blue Bell Inn", 
+        "area" : "Cardiff", 
+        "pub_count" : 211.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.247935, 
+            53.088912
+        ]
+    }, 
+    "properties" : {
+        "name" : "CANAL TAVERN", 
+        "area" : "Newcastle-under-Lyme", 
+        "pub_count" : 127.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.408621, 
+            51.698875
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bay Prince Of Wales Hotel", 
+        "area" : "Stroud", 
+        "pub_count" : 102.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.027607, 
+            53.976822
+        ]
+    }, 
+    "properties" : {
+        "name" : "Craven Heifer Inn", 
+        "area" : "Craven", 
+        "pub_count" : 88.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.498159, 
+            50.54537
+        ]
+    }, 
+    "properties" : {
+        "name" : "Devon Arms Hotel - Bar Sales", 
+        "area" : "Teignbridge", 
+        "pub_count" : 157.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.089192, 
+            53.36892
+        ]
+    }, 
+    "properties" : {
+        "name" : "Arrowe Park Hotel", 
+        "area" : "Wirral", 
+        "pub_count" : 217.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.013354, 
+            51.40598
+        ]
+    }, 
+    "properties" : {
+        "name" : "Barrel & Horn", 
+        "area" : "Bromley", 
+        "pub_count" : 182.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.611401, 
+            54.972407
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bacchus", 
+        "area" : "Newcastle upon Tyne", 
+        "pub_count" : 253.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.335486, 
+            53.633024
+        ]
+    }, 
+    "properties" : {
+        "name" : "Hoysters", 
+        "area" : "Bury", 
+        "pub_count" : 60.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.33524, 
+            51.59635
+        ]
+    }, 
+    "properties" : {
+        "name" : "Dalys", 
+        "area" : "Harrow", 
+        "pub_count" : 84.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.293315, 
+            53.231646
+        ]
+    }, 
+    "properties" : {
+        "name" : "Black Bull", 
+        "area" : "Bolsover", 
+        "pub_count" : 86.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.245398, 
+            55.857964
+        ]
+    }, 
+    "properties" : {
+        "name" : "Blackfriars", 
+        "area" : "Glasgow City", 
+        "pub_count" : 362.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.531013, 
+            50.957166
+        ]
+    }, 
+    "properties" : {
+        "name" : "VINE INN (OWER)", 
+        "area" : "Test Valley", 
+        "pub_count" : 124.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.304721, 
+            50.780015
+        ]
+    }, 
+    "properties" : {
+        "name" : "Eastbourne United Association FC", 
+        "area" : "Eastbourne", 
+        "pub_count" : 57.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.536361, 
+            52.292374
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar and Block", 
+        "area" : "Warwick", 
+        "pub_count" : 121.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.002202, 
+            53.195274
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bridge Inn", 
+        "area" : "Flintshire", 
+        "pub_count" : 160.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.487125, 
+            50.90294
+        ]
+    }, 
+    "properties" : {
+        "name" : "Half Moon Inn", 
+        "area" : "Mid Devon", 
+        "pub_count" : 87.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.888037, 
+            56.644842
+        ]
+    }, 
+    "properties" : {
+        "name" : "10 Cafe Bar", 
+        "area" : "Angus", 
+        "pub_count" : 138.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.276107, 
+            52.621613
+        ]
+    }, 
+    "properties" : {
+        "name" : "Eaton Cottage", 
+        "area" : "Norwich", 
+        "pub_count" : 162.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.079559, 
+            51.561951
+        ]
+    }, 
+    "properties" : {
+        "name" : "Auld Shillelagh", 
+        "area" : "Hackney", 
+        "pub_count" : 173.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.752052, 
+            53.371413
+        ]
+    }, 
+    "properties" : {
+        "name" : "Ball Hotel", 
+        "area" : "Halton", 
+        "pub_count" : 96.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.024177, 
+            52.048789
+        ]
+    }, 
+    "properties" : {
+        "name" : "Casino Caterers at Royston Conservative Club", 
+        "area" : "North Hertfordshire", 
+        "pub_count" : 128.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.874197, 
+            50.842306
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bosham Inn", 
+        "area" : "Chichester", 
+        "pub_count" : 146.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.425017, 
+            55.847552
+        ]
+    }, 
+    "properties" : {
+        "name" : "Argyll Bar", 
+        "area" : "Renfrewshire", 
+        "pub_count" : 152.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.363429, 
+            51.41396
+        ]
+    }, 
+    "properties" : {
+        "name" : "Hampton and Richmond Football Club", 
+        "area" : "Richmond upon Thames", 
+        "pub_count" : 148.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.163791, 
+            52.577312
+        ]
+    }, 
+    "properties" : {
+        "name" : "Blaby And District Social Centre", 
+        "area" : "Blaby", 
+        "pub_count" : 59.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.147043, 
+            53.040224
+        ]
+    }, 
+    "properties" : {
+        "name" : "Abbey Hulton Football Club", 
+        "area" : "Stoke-on-Trent", 
+        "pub_count" : 254.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.697619, 
+            52.300427
+        ]
+    }, 
+    "properties" : {
+        "name" : "Coach And Horses", 
+        "area" : "Wellingborough", 
+        "pub_count" : 77.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.370781, 
+            50.809708
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar Forty Two", 
+        "area" : "Worthing", 
+        "pub_count" : 77.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.106919, 
+            57.155121
+        ]
+    }, 
+    "properties" : {
+        "name" : "524 BAR", 
+        "area" : "Aberdeen City", 
+        "pub_count" : 200.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.58013, 
+            51.531643
+        ]
+    }, 
+    "properties" : {
+        "name" : "Castle Point Golf Club", 
+        "area" : "Castle Point", 
+        "pub_count" : 37.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.026562, 
+            52.432563
+        ]
+    }, 
+    "properties" : {
+        "name" : "Black Horse Inn Ph", 
+        "area" : "Dudley", 
+        "pub_count" : 290.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.766259, 
+            55.240164
+        ]
+    }, 
+    "properties" : {
+        "name" : "Elmarglen", 
+        "area" : "Dumfries and Galloway", 
+        "pub_count" : 146.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.366257, 
+            51.369325
+        ]
+    }, 
+    "properties" : {
+        "name" : "Albert Arms", 
+        "area" : "Elmbridge", 
+        "pub_count" : 128.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.6086, 
+            53.835447
+        ]
+    }, 
+    "properties" : {
+        "name" : "The Alston Arms", 
+        "area" : "Ribble Valley", 
+        "pub_count" : 109.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.098398, 
+            51.240733
+        ]
+    }, 
+    "properties" : {
+        "name" : "Billys Bar (Bletchingley Sports And Social Club)", 
+        "area" : "Tandridge", 
+        "pub_count" : 93.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.014689, 
+            53.384534
+        ]
+    }, 
+    "properties" : {
+        "name" : "Blue Bell Inn", 
+        "area" : "Bassetlaw", 
+        "pub_count" : 120.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.793655, 
+            55.609441
+        ]
+    }, 
+    "properties" : {
+        "name" : "Abbotsford Bowling Club", 
+        "area" : "Scottish Borders", 
+        "pub_count" : 151.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.148947, 
+            51.208546
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bough Beech Sailing Club", 
+        "area" : "Sevenoaks", 
+        "pub_count" : 103.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.989234, 
+            52.13218
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar Encore", 
+        "area" : "South Northamptonshire", 
+        "pub_count" : 115.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.458328, 
+            53.597935
+        ]
+    }, 
+    "properties" : {
+        "name" : "Alexandra W M C", 
+        "area" : "Barnsley", 
+        "pub_count" : 265.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.693727, 
+            52.63412
+        ]
+    }, 
+    "properties" : {
+        "name" : "Colin Grazier Hotel & U Bar", 
+        "area" : "Tamworth", 
+        "pub_count" : 64.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.131492, 
+            53.002403
+        ]
+    }, 
+    "properties" : {
+        "name" : "Arnold & District Liberal Club", 
+        "area" : "Gedling", 
+        "pub_count" : 46.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.433995, 
+            52.365639
+        ]
+    }, 
+    "properties" : {
+        "name" : "Blacksmith Arms", 
+        "area" : "Rugby", 
+        "pub_count" : 119.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.395269, 
+            50.93338
+        ]
+    }, 
+    "properties" : {
+        "name" : "Ashington Community Centre", 
+        "area" : "Horsham", 
+        "pub_count" : 104.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.251882, 
+            53.351005
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cedar Bar & Restaurant", 
+        "area" : "East Lindsey", 
+        "pub_count" : 287.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.596009, 
+            53.363719
+        ]
+    }, 
+    "properties" : {
+        "name" : "Warrington Sports Club", 
+        "area" : "Warrington", 
+        "pub_count" : 194.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.728326, 
+            51.216099
+        ]
+    }, 
+    "properties" : {
+        "name" : "Lorna Doone & Cloud Farms", 
+        "area" : "Somerset West and Taunton", 
+        "pub_count" : 152.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.493543, 
+            51.827953
+        ]
+    }, 
+    "properties" : {
+        "name" : "Causeway Club - Cinderford Town Football Club", 
+        "area" : "Forest of Dean", 
+        "pub_count" : 35.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.161425, 
+            52.057056
+        ]
+    }, 
+    "properties" : {
+        "name" : "29 St Helens Street", 
+        "area" : "Ipswich", 
+        "pub_count" : 67.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.865825, 
+            51.136648
+        ]
+    }, 
+    "properties" : {
+        "name" : "Beaver Inn", 
+        "area" : "Ashford", 
+        "pub_count" : 84.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.124863, 
+            54.534053
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cross Keys (Upsall)", 
+        "area" : "Redcar and Cleveland", 
+        "pub_count" : 137.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.074231, 
+            57.364544
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bridge Bar", 
+        "area" : "Aberdeenshire", 
+        "pub_count" : 79.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.659512, 
+            55.54624
+        ]
+    }, 
+    "properties" : {
+        "name" : "86 Social Club", 
+        "area" : "South Ayrshire", 
+        "pub_count" : 143.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.159285, 
+            51.879752
+        ]
+    }, 
+    "properties" : {
+        "name" : "Chosen Hill Former Pupils Rugby Club", 
+        "area" : "Tewkesbury", 
+        "pub_count" : 65.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.342321, 
+            54.233225
+        ]
+    }, 
+    "properties" : {
+        "name" : "Black Bull", 
+        "area" : "Hambleton", 
+        "pub_count" : 121.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.079375, 
+            51.897851
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bongo Bar", 
+        "area" : "Cheltenham", 
+        "pub_count" : 94.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.860605, 
+            53.721236
+        ]
+    }, 
+    "properties" : {
+        "name" : "Alexandra Beer House", 
+        "area" : "Calderdale", 
+        "pub_count" : 341.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.081201, 
+            51.280862
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bell & Crown Public House", 
+        "area" : "Canterbury", 
+        "pub_count" : 162.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.378491, 
+            54.90698
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar Justice", 
+        "area" : "Sunderland", 
+        "pub_count" : 223.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.01708, 
+            52.979305
+        ]
+    }, 
+    "properties" : {
+        "name" : "Boston Central Racing Pigeon", 
+        "area" : "Boston", 
+        "pub_count" : 66.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.285398, 
+            51.532713
+        ]
+    }, 
+    "properties" : {
+        "name" : "Crystals Bar & Restaurant", 
+        "area" : "Brent", 
+        "pub_count" : 88.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.397193, 
+            53.34947
+        ]
+    }, 
+    "properties" : {
+        "name" : "Coach And Horses", 
+        "area" : "West Lindsey", 
+        "pub_count" : 91.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.769405, 
+            51.238146
+        ]
+    }, 
+    "properties" : {
+        "name" : "Aldershot Traction Club", 
+        "area" : "Rushmoor", 
+        "pub_count" : 51.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.0309, 
+            53.560872
+        ]
+    }, 
+    "properties" : {
+        "name" : "0 degrees North", 
+        "area" : "North East Lincolnshire", 
+        "pub_count" : 144.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.580081, 
+            54.776623
+        ]
+    }, 
+    "properties" : {
+        "name" : "Babylon", 
+        "area" : "County Durham", 
+        "pub_count" : 649.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.761396, 
+            52.222535
+        ]
+    }, 
+    "properties" : {
+        "name" : "Barons Cross Inn", 
+        "area" : "Herefordshire, County of", 
+        "pub_count" : 232.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.086839, 
+            51.25927
+        ]
+    }, 
+    "properties" : {
+        "name" : "Basingstoke Town Bowling Club", 
+        "area" : "Basingstoke and Deane", 
+        "pub_count" : 107.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.423027, 
+            53.236776
+        ]
+    }, 
+    "properties" : {
+        "name" : "Aruba", 
+        "area" : "Chesterfield", 
+        "pub_count" : 141.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.786412, 
+            55.997738
+        ]
+    }, 
+    "properties" : {
+        "name" : "Adrian Bowling Club", 
+        "area" : "Falkirk", 
+        "pub_count" : 114.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.193181, 
+            51.361712
+        ]
+    }, 
+    "properties" : {
+        "name" : "All Bar One", 
+        "area" : "Sutton", 
+        "pub_count" : 44.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.032307, 
+            52.689411
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar Sport & Premier Suite", 
+        "area" : "Cannock Chase", 
+        "pub_count" : 89.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.492365, 
+            51.960913
+        ]
+    }, 
+    "properties" : {
+        "name" : "Carpenters Arms", 
+        "area" : "Central Bedfordshire", 
+        "pub_count" : 156.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.592798, 
+            54.433311
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cross Keys Inn", 
+        "area" : "Eden", 
+        "pub_count" : 125.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.959698, 
+            58.984512
+        ]
+    }, 
+    "properties" : {
+        "name" : "Orkney Sailing Club", 
+        "area" : "Orkney Islands", 
+        "pub_count" : 14.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.079822, 
+            51.519763
+        ]
+    }, 
+    "properties" : {
+        "name" : "All Bar One", 
+        "area" : "City of London", 
+        "pub_count" : 228.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.853894, 
+            52.896164
+        ]
+    }, 
+    "properties" : {
+        "name" : "Centre Course Bar at Uttoxeter Racecourse", 
+        "area" : "East Staffordshire", 
+        "pub_count" : 117.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.060027, 
+            51.082565
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bull And Bear", 
+        "area" : "North Devon", 
+        "pub_count" : 128.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.706892, 
+            51.581433
+        ]
+    }, 
+    "properties" : {
+        "name" : "Masonic Lodge", 
+        "area" : "Rochford", 
+        "pub_count" : 45.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.490461, 
+            54.980866
+        ]
+    }, 
+    "properties" : {
+        "name" : "Beach Bingo", 
+        "area" : "South Tyneside", 
+        "pub_count" : 140.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.088713, 
+            51.506383
+        ]
+    }, 
+    "properties" : {
+        "name" : "Barrow boy & banker", 
+        "area" : "Southwark", 
+        "pub_count" : 197.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.948698, 
+            52.324767
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brasserie 23", 
+        "area" : "Daventry", 
+        "pub_count" : 89.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.079755, 
+            53.500602
+        ]
+    }, 
+    "properties" : {
+        "name" : "Ashton United Football Club Ltd", 
+        "area" : "Tameside", 
+        "pub_count" : 224.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.225484, 
+            51.710554
+        ]
+    }, 
+    "properties" : {
+        "name" : "Catherine Wheel", 
+        "area" : "South Oxfordshire", 
+        "pub_count" : 75.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.055839, 
+            51.526472
+        ]
+    }, 
+    "properties" : {
+        "name" : "Backyard Bar", 
+        "area" : "Tower Hamlets", 
+        "pub_count" : 162.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.582779, 
+            55.966287
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brock Bowling & Social Club", 
+        "area" : "West Dunbartonshire", 
+        "pub_count" : 45.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.865775, 
+            54.073248
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brittle Star LTD", 
+        "area" : "Lancaster", 
+        "pub_count" : 130.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.867991, 
+            53.402267
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bowring Park Hotel", 
+        "area" : "Knowsley", 
+        "pub_count" : 61.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.795691, 
+            51.430492
+        ]
+    }, 
+    "properties" : {
+        "name" : "Binfield Social Club", 
+        "area" : "Bracknell Forest", 
+        "pub_count" : 62.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.726161, 
+            52.399403
+        ]
+    }, 
+    "properties" : {
+        "name" : "Abacus & Attica & B-Lo", 
+        "area" : "Kettering", 
+        "pub_count" : 79.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.433267, 
+            51.895914
+        ]
+    }, 
+    "properties" : {
+        "name" : "Biscot Mill/The Hungry Horse", 
+        "area" : "Luton", 
+        "pub_count" : 54.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.578576, 
+            50.856056
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brass Monkey", 
+        "area" : "Hastings", 
+        "pub_count" : 86.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.526278, 
+            53.239086
+        ]
+    }, 
+    "properties" : {
+        "name" : "Lee Road Bowls Club", 
+        "area" : "Lincoln", 
+        "pub_count" : 88.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.160213, 
+            51.765798
+        ]
+    }, 
+    "properties" : {
+        "name" : "Blaina Cons. Public House", 
+        "area" : "Blaenau Gwent", 
+        "pub_count" : 108.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.221981, 
+            55.90953
+        ]
+    }, 
+    "properties" : {
+        "name" : "Allan Glen's Sports Club", 
+        "area" : "East Dunbartonshire", 
+        "pub_count" : 47.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.194378, 
+            53.146234
+        ]
+    }, 
+    "properties" : {
+        "name" : "Andwhynot & Canvas", 
+        "area" : "Mansfield", 
+        "pub_count" : 90.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.98237, 
+            51.997265
+        ]
+    }, 
+    "properties" : {
+        "name" : "Buckingham Town Cricket Club", 
+        "area" : "Aylesbury Vale", 
+        "pub_count" : 194.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.101099, 
+            51.372971
+        ]
+    }, 
+    "properties" : {
+        "name" : "Art And Craft CR0 1RJ", 
+        "area" : "Croydon", 
+        "pub_count" : 43.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.40447, 
+            50.909056
+        ]
+    }, 
+    "properties" : {
+        "name" : "Aqua Lounge", 
+        "area" : "Southampton", 
+        "pub_count" : 147.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.06163, 
+            51.492702
+        ]
+    }, 
+    "properties" : {
+        "name" : "Ammas Fayre", 
+        "area" : "Greenwich", 
+        "pub_count" : 102.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.788881, 
+            55.816042
+        ]
+    }, 
+    "properties" : {
+        "name" : "32 Social Club", 
+        "area" : "North Lanarkshire", 
+        "pub_count" : 216.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.565976, 
+            51.763756
+        ]
+    }, 
+    "properties" : {
+        "name" : "Berkhamsted Football Club", 
+        "area" : "Dacorum", 
+        "pub_count" : 126.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.839009, 
+            55.950854
+        ]
+    }, 
+    "properties" : {
+        "name" : "Buckley's At The Gourock Golf Club", 
+        "area" : "Inverclyde", 
+        "pub_count" : 69.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.416109, 
+            51.702468
+        ]
+    }, 
+    "properties" : {
+        "name" : "Abbots Langley & District Men'S Club", 
+        "area" : "Three Rivers", 
+        "pub_count" : 41.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.353324, 
+            51.725856
+        ]
+    }, 
+    "properties" : {
+        "name" : "8 Bells Bar O", 
+        "area" : "Vale of White Horse", 
+        "pub_count" : 122.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.902596, 
+            51.457105
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bowling Pavilion", 
+        "area" : "Wokingham", 
+        "pub_count" : 89.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.703319, 
+            53.758602
+        ]
+    }, 
+    "properties" : {
+        "name" : "1842 Bar & Restaurant", 
+        "area" : "Preston", 
+        "pub_count" : 130.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.269643, 
+            53.52275
+        ]
+    }, 
+    "properties" : {
+        "name" : "Barnburgh Working Mens Club", 
+        "area" : "Doncaster", 
+        "pub_count" : 302.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.179786, 
+            51.579263
+        ]
+    }, 
+    "properties" : {
+        "name" : "Funktion", 
+        "area" : "Havering", 
+        "pub_count" : 90.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.01879, 
+            51.582199
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar 300", 
+        "area" : "Waltham Forest", 
+        "pub_count" : 89.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.099727, 
+            54.971172
+        ]
+    }, 
+    "properties" : {
+        "name" : "Albert Edward Club", 
+        "area" : "Northumberland", 
+        "pub_count" : 445.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.889932, 
+            54.199159
+        ]
+    }, 
+    "properties" : {
+        "name" : "Grange over Sands Golf Club", 
+        "area" : "South Lakeland", 
+        "pub_count" : 174.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.324901, 
+            52.056844
+        ]
+    }, 
+    "properties" : {
+        "name" : "Banbury United Football Club", 
+        "area" : "Cherwell", 
+        "pub_count" : 102.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.840502, 
+            51.280803
+        ]
+    }, 
+    "properties" : {
+        "name" : "Broadway Club", 
+        "area" : "Hart", 
+        "pub_count" : 55.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.621998, 
+            53.757172
+        ]
+    }, 
+    "properties" : {
+        "name" : "New Hall Tavern", 
+        "area" : "South Ribble", 
+        "pub_count" : 46.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.210887, 
+            51.763947
+        ]
+    }, 
+    "properties" : {
+        "name" : "BALTIC INN & RESTAURANT", 
+        "area" : "Carmarthenshire", 
+        "pub_count" : 263.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.931216, 
+            54.890672
+        ]
+    }, 
+    "properties" : {
+        "name" : "Brewdog Carlisle", 
+        "area" : "Carlisle", 
+        "pub_count" : 94.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.534251, 
+            50.703059
+        ]
+    }, 
+    "properties" : {
+        "name" : "Alphington Sports Club", 
+        "area" : "Exeter", 
+        "pub_count" : 118.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.760031, 
+            51.614463
+        ]
+    }, 
+    "properties" : {
+        "name" : "Afan Tavern", 
+        "area" : "Neath Port Talbot", 
+        "pub_count" : 170.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.203978, 
+            51.235018
+        ]
+    }, 
+    "properties" : {
+        "name" : "Joules Wine & Cocktail Bar", 
+        "area" : "Reigate and Banstead", 
+        "pub_count" : 69.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.121102, 
+            52.784889
+        ]
+    }, 
+    "properties" : {
+        "name" : "Palmers Ale House and Kitchen", 
+        "area" : "South Holland", 
+        "pub_count" : 72.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.200738, 
+            50.78872
+        ]
+    }, 
+    "properties" : {
+        "name" : "Anglers Paradise", 
+        "area" : "Torridge", 
+        "pub_count" : 98.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.343403, 
+            51.934041
+        ]
+    }, 
+    "properties" : {
+        "name" : "Farmhouse Inn", 
+        "area" : "Uttlesford", 
+        "pub_count" : 93.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.207722, 
+            51.799997
+        ]
+    }, 
+    "properties" : {
+        "name" : "The Doctors Tonic", 
+        "area" : "Welwyn Hatfield", 
+        "pub_count" : 53.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.18028, 
+            50.383352
+        ]
+    }, 
+    "properties" : {
+        "name" : "Avondale Arms", 
+        "area" : "Plymouth", 
+        "pub_count" : 149.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.183593, 
+            54.697938
+        ]
+    }, 
+    "properties" : {
+        "name" : "Headland Social Club", 
+        "area" : "Hartlepool", 
+        "pub_count" : 111.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.437447, 
+            52.084026
+        ]
+    }, 
+    "properties" : {
+        "name" : "DC4BARS Limited", 
+        "area" : "West Suffolk", 
+        "pub_count" : 128.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.076324, 
+            53.964271
+        ]
+    }, 
+    "properties" : {
+        "name" : "Black Horse", 
+        "area" : "York", 
+        "pub_count" : 218.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.111068, 
+            52.174445
+        ]
+    }, 
+    "properties" : {
+        "name" : "Lord Byron Inn", 
+        "area" : "Cambridge", 
+        "pub_count" : 91.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.059848, 
+            51.70663
+        ]
+    }, 
+    "properties" : {
+        "name" : "Broxbourne Youth Football Club", 
+        "area" : "Broxbourne", 
+        "pub_count" : 49.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.474496, 
+            50.607822
+        ]
+    }, 
+    "properties" : {
+        "name" : "Admiral Hardy", 
+        "area" : "Dorset", 
+        "pub_count" : 417.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.468859, 
+            52.625046
+        ]
+    }, 
+    "properties" : {
+        "name" : "Black Swan", 
+        "area" : "Telford and Wrekin", 
+        "pub_count" : 135.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.045715, 
+            53.785711
+        ]
+    }, 
+    "properties" : {
+        "name" : "Farmers Arms", 
+        "area" : "Blackpool", 
+        "pub_count" : 51.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.161029, 
+            53.218544
+        ]
+    }, 
+    "properties" : {
+        "name" : "ANTELOPE INN", 
+        "area" : "Gwynedd", 
+        "pub_count" : 141.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.478913, 
+            53.303344
+        ]
+    }, 
+    "properties" : {
+        "name" : "CBS Dronfield Ltd The Victoria Inn", 
+        "area" : "North East Derbyshire", 
+        "pub_count" : 119.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.310631, 
+            52.688743
+        ]
+    }, 
+    "properties" : {
+        "name" : "Old Thatched Inn", 
+        "area" : "Hinckley and Bosworth", 
+        "pub_count" : 113.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.663138, 
+            53.586075
+        ]
+    }, 
+    "properties" : {
+        "name" : "Albion Ale House", 
+        "area" : "Wigan", 
+        "pub_count" : 207.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.993305, 
+            50.856846
+        ]
+    }, 
+    "properties" : {
+        "name" : "Havant Rugby Club", 
+        "area" : "Havant", 
+        "pub_count" : 49.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.160537, 
+            51.867589
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bishops Stortford Social Club", 
+        "area" : "East Hertfordshire", 
+        "pub_count" : 179.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.12072, 
+            52.974439
+        ]
+    }, 
+    "properties" : {
+        "name" : "Punch Bowl", 
+        "area" : "Nottingham", 
+        "pub_count" : 246.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.780553, 
+            52.591015
+        ]
+    }, 
+    "properties" : {
+        "name" : "Harvester Bassetts Pole", 
+        "area" : "North Warwickshire", 
+        "pub_count" : 99.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.068937, 
+            51.55797
+        ]
+    }, 
+    "properties" : {
+        "name" : "Ilford Conservative Club", 
+        "area" : "Redbridge", 
+        "pub_count" : 80.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.697977, 
+            54.386731
+        ]
+    }, 
+    "properties" : {
+        "name" : "Hildyard Arms", 
+        "area" : "Richmondshire", 
+        "pub_count" : 54.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.542745, 
+            50.826302
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bencoolen Inn", 
+        "area" : "Cornwall", 
+        "pub_count" : 548.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.725949, 
+            52.612261
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar X", 
+        "area" : "Great Yarmouth", 
+        "pub_count" : 98.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.132875, 
+            51.060582
+        ]
+    }, 
+    "properties" : {
+        "name" : "Half Moon Inn", 
+        "area" : "Mid Sussex", 
+        "pub_count" : 106.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.894073, 
+            57.112553
+        ]
+    }, 
+    "properties" : {
+        "name" : "CGC Blackmill Airstrip", 
+        "area" : "Highland", 
+        "pub_count" : 46.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.888543, 
+            53.187925
+        ]
+    }, 
+    "properties" : {
+        "name" : "Albion Inn", 
+        "area" : "Cheshire West and Chester", 
+        "pub_count" : 202.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.727697, 
+            53.541845
+        ]
+    }, 
+    "properties" : {
+        "name" : "Britannia Inn", 
+        "area" : "West Lancashire", 
+        "pub_count" : 105.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.268623, 
+            52.368259
+        ]
+    }, 
+    "properties" : {
+        "name" : "Alconbury Sports & Social Club", 
+        "area" : "Huntingdonshire", 
+        "pub_count" : 130.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.512318, 
+            51.386189
+        ]
+    }, 
+    "properties" : {
+        "name" : "Chertsey Bowling Club", 
+        "area" : "Runnymede", 
+        "pub_count" : 63.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.732684, 
+            53.017831
+        ]
+    }, 
+    "properties" : {
+        "name" : "Ashbourne Ex-Servicemens Club", 
+        "area" : "Derbyshire Dales", 
+        "pub_count" : 166.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.377772, 
+            52.239451
+        ]
+    }, 
+    "properties" : {
+        "name" : "Arvon Ales Ltd", 
+        "area" : "Powys", 
+        "pub_count" : 284.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.210933, 
+            56.596999
+        ]
+    }, 
+    "properties" : {
+        "name" : "Strathmore Golf Centre", 
+        "area" : "Perth and Kinross", 
+        "pub_count" : 57.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.894362, 
+            51.311479
+        ]
+    }, 
+    "properties" : {
+        "name" : "Faversham Recreation Bowling Club", 
+        "area" : "Swale", 
+        "pub_count" : 137.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.682876, 
+            51.496088
+        ]
+    }, 
+    "properties" : {
+        "name" : "Avonmouth Old Boys RFC", 
+        "area" : "Bristol, City of", 
+        "pub_count" : 392.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.386688, 
+            51.781365
+        ]
+    }, 
+    "properties" : {
+        "name" : "Aberglais Inn Pontsarn Road", 
+        "area" : "Merthyr Tydfil", 
+        "pub_count" : 77.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.468494, 
+            52.137564
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar Citrus", 
+        "area" : "Bedford", 
+        "pub_count" : 139.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.73985, 
+            52.760317
+        ]
+    }, 
+    "properties" : {
+        "name" : "Berkeley Arms", 
+        "area" : "Melton", 
+        "pub_count" : 61.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.45852, 
+            52.873848
+        ]
+    }, 
+    "properties" : {
+        "name" : "Beavers Retreat", 
+        "area" : "King's Lynn and West Norfolk", 
+        "pub_count" : 182.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.736538, 
+            51.129037
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bear Inn Street", 
+        "area" : "Mendip", 
+        "pub_count" : 165.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.727555, 
+            52.669292
+        ]
+    }, 
+    "properties" : {
+        "name" : "Crown Tavern Bar", 
+        "area" : "Rutland", 
+        "pub_count" : 49.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.401892, 
+            54.285027
+        ]
+    }, 
+    "properties" : {
+        "name" : "Apollo Bar & Venue", 
+        "area" : "Scarborough", 
+        "pub_count" : 179.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.379597, 
+            51.224848
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bush Blackbird And Thrush", 
+        "area" : "Tonbridge and Malling", 
+        "pub_count" : 101.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.740223, 
+            53.45368
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bar 44", 
+        "area" : "St. Helens", 
+        "pub_count" : 153.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.706218, 
+            51.183987
+        ]
+    }, 
+    "properties" : {
+        "name" : "Elstead Royal British Legion", 
+        "area" : "Waverley", 
+        "pub_count" : 89.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.963765, 
+            57.677958
+        ]
+    }, 
+    "properties" : {
+        "name" : "Buckie Bowling Club", 
+        "area" : "Moray", 
+        "pub_count" : 81.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.052324, 
+            50.557335
+        ]
+    }, 
+    "properties" : {
+        "name" : "Dartmoor Inn", 
+        "area" : "West Devon", 
+        "pub_count" : 77.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.1246, 
+            52.585823
+        ]
+    }, 
+    "properties" : {
+        "name" : "Banjul", 
+        "area" : "Wolverhampton", 
+        "pub_count" : 183.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.20771, 
+            52.772641
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bell Foundry", 
+        "area" : "Charnwood", 
+        "pub_count" : 177.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.05586, 
+            50.808296
+        ]
+    }, 
+    "properties" : {
+        "name" : "Baffins Inn", 
+        "area" : "Portsmouth", 
+        "pub_count" : 182.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.781453, 
+            51.616198
+        ]
+    }, 
+    "properties" : {
+        "name" : "Cressex Community Centre", 
+        "area" : "Wycombe", 
+        "pub_count" : 153.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.29927, 
+            54.606744
+        ]
+    }, 
+    "properties" : {
+        "name" : "Billingham Catholic Club", 
+        "area" : "Stockton-on-Tees", 
+        "pub_count" : 168.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.311858, 
+            51.061714
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bishop On The Bridge", 
+        "area" : "Winchester", 
+        "pub_count" : 107.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.402206, 
+            51.213016
+        ]
+    }, 
+    "properties" : {
+        "name" : "Downs Sailing Club", 
+        "area" : "Dover", 
+        "pub_count" : 153.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.097749, 
+            52.086732
+        ]
+    }, 
+    "properties" : {
+        "name" : "Birlingham Cricket Club", 
+        "area" : "Wychavon", 
+        "pub_count" : 153.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.634192, 
+            51.813552
+        ]
+    }, 
+    "properties" : {
+        "name" : "The Cherry Tree", 
+        "area" : "Braintree", 
+        "pub_count" : 123.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.234891, 
+            56.294487
+        ]
+    }, 
+    "properties" : {
+        "name" : "Auchtermuchty Bowling Club", 
+        "area" : "Fife", 
+        "pub_count" : 402.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.628063, 
+            50.94067
+        ]
+    }, 
+    "properties" : {
+        "name" : "Club Neo", 
+        "area" : "South Somerset", 
+        "pub_count" : 199.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.209522, 
+            51.520807
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bertie Blossoms", 
+        "area" : "Kensington and Chelsea", 
+        "pub_count" : 103.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            1.415257, 
+            51.338084
+        ]
+    }, 
+    "properties" : {
+        "name" : "East Kent Arms", 
+        "area" : "Thanet", 
+        "pub_count" : 152.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.932401, 
+            51.62283
+        ]
+    }, 
+    "properties" : {
+        "name" : "City Bar", 
+        "area" : "Swansea", 
+        "pub_count" : 202.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.407734, 
+            53.580487
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bowling Green", 
+        "area" : "Bolton", 
+        "pub_count" : 189.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.772535, 
+            52.03956
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bakers Arms", 
+        "area" : "Cotswold", 
+        "pub_count" : 128.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.123759, 
+            50.838085
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bear Inn", 
+        "area" : "Brighton and Hove", 
+        "pub_count" : 359.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.44075, 
+            51.513789
+        ]
+    }, 
+    "properties" : {
+        "name" : "Crooked Billet", 
+        "area" : "Thurrock", 
+        "pub_count" : 57.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.705635, 
+            54.224198
+        ]
+    }, 
+    "properties" : {
+        "name" : "Black Swan", 
+        "area" : "Harrogate", 
+        "pub_count" : 193.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.590054, 
+            53.190246
+        ]
+    }, 
+    "properties" : {
+        "name" : "Centurion", 
+        "area" : "North Kesteven", 
+        "pub_count" : 106.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.217549, 
+            51.466183
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bricklayer's Arms", 
+        "area" : "Wandsworth", 
+        "pub_count" : 170.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.606233, 
+            51.486483
+        ]
+    }, 
+    "properties" : {
+        "name" : "Boatman", 
+        "area" : "Windsor and Maidenhead", 
+        "pub_count" : 94.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.351048, 
+            53.428956
+        ]
+    }, 
+    "properties" : {
+        "name" : "Albion Road WMC", 
+        "area" : "Rotherham", 
+        "pub_count" : 206.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.159424, 
+            51.540071
+        ]
+    }, 
+    "properties" : {
+        "name" : "Dagenham Conservative & Social Club", 
+        "area" : "Barking and Dagenham", 
+        "pub_count" : 35.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.979947, 
+            51.792163
+        ]
+    }, 
+    "properties" : {
+        "name" : "Dog & Pheasant", 
+        "area" : "Colchester", 
+        "pub_count" : 105.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.712497, 
+            51.535931
+        ]
+    }, 
+    "properties" : {
+        "name" : "Conservative Club", 
+        "area" : "Southend-on-Sea", 
+        "pub_count" : 86.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.564626, 
+            52.132671
+        ]
+    }, 
+    "properties" : {
+        "name" : "Aberporth Sports & Social Club", 
+        "area" : "Ceredigion", 
+        "pub_count" : 100.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.346837, 
+            53.73542
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bay Horse - Baxenden", 
+        "area" : "Hyndburn", 
+        "pub_count" : 103.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.148792, 
+            50.799039
+        ]
+    }, 
+    "properties" : {
+        "name" : "Foresters Arms", 
+        "area" : "Gosport", 
+        "pub_count" : 54.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -4.387306, 
+            55.801571
+        ]
+    }, 
+    "properties" : {
+        "name" : "Flying Horse", 
+        "area" : "East Renfrewshire", 
+        "pub_count" : 11.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            0.197685, 
+            51.426274
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bexley Park Sports And Social Club", 
+        "area" : "Dartford", 
+        "pub_count" : 63.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.352198, 
+            53.062222
+        ]
+    }, 
+    "properties" : {
+        "name" : "Anvil Club", 
+        "area" : "Amber Valley", 
+        "pub_count" : 179.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.03532, 
+            51.475312
+        ]
+    }, 
+    "properties" : {
+        "name" : "Crystals", 
+        "area" : "Lewisham", 
+        "pub_count" : 92.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.251208, 
+            51.863039
+        ]
+    }, 
+    "properties" : {
+        "name" : "Lord High Constable Of England", 
+        "area" : "Gloucester", 
+        "pub_count" : 24.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -0.717649, 
+            51.999329
+        ]
+    }, 
+    "properties" : {
+        "name" : "Chequers", 
+        "area" : "Milton Keynes", 
+        "pub_count" : 128.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.018182, 
+            51.826
+        ]
+    }, 
+    "properties" : {
+        "name" : "Abergavenny Rugby Football Club", 
+        "area" : "Monmouthshire", 
+        "pub_count" : 119.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -3.189037, 
+            55.950478
+        ]
+    }, 
+    "properties" : {
+        "name" : "Arcade Bar", 
+        "area" : "City of Edinburgh", 
+        "pub_count" : 507.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -2.047634, 
+            52.468571
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bell and Bear Inn", 
+        "area" : "Sandwell", 
+        "pub_count" : 231.0
+    }
+},
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+        "type" : "Point", 
+        "coordinates" : [
+            -1.773388, 
+            53.826632
+        ]
+    }, 
+    "properties" : {
+        "name" : "Bradford Hotel", 
+        "area" : "Bradford", 
+        "pub_count" : 463.0
+    }
+}
+] }
