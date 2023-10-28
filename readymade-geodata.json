@@ -1,4 +1,4 @@
-
+{ "type": "FeatureCollection", "features": [
 { 
     "type" : "Feature", 
     "geometry" : {
@@ -9,4 +9,4 @@
         "area" : "Rochdale", 
         "pub_count" : 194.0
     }
-}
+}]}
