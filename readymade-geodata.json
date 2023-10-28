@@ -1,8 +1,6 @@
 { "type": "FeatureCollection", "features": [
-{ 
-    "type" : "Feature", 
-    "geometry" : {
-       "type": "LineString", "coordinates": [ [ 40, 5 ], [ 41, 6 ] ] 
-    }
-
+{
+  "type": "Polygon",
+  "coordinates": [ [ [ 0 , 0 ] , [ 3 , 6 ] , [ 6 , 1 ] , [ 0 , 0  ] ] ]
+}
 }]}
