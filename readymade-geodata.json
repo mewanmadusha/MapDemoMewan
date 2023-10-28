@@ -2,10 +2,14 @@
 { 
     "type" : "Feature", 
     "geometry" : {
-        "type" : "Point", 
+        "type" : "LineString", 
         "coordinates" : [
             -2.211495, 
             53.62714
+        ],
+        [
+            -2, 
+            55
         ]
     }, 
     "properties" : {
