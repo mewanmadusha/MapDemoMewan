@@ -9,7 +9,12 @@
      [ -74.9737, 40.7648 ],
      [ -76.9814, 40.7681 ]
   ]
-}
+},
+    "properties" : {
+        "name" : "Athelstan Arms", 
+        "area" : "Bournemouth, Christchurch and Poole", 
+        "pub_count" : 201.0
+    }
 
 }]}
 
