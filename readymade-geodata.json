@@ -2,7 +2,7 @@
 { 
     "type" : "Feature", 
     "geometry" : {
-  "type": "MultiLineString",
+  "type": "LineString",
   "coordinates": [
      [ [ -70.96943, 40.78519 ], [ -73.96082, 40.78095 ] ],
      [ [ -71.96415, 40.79229 ], [ -73.95544, 50.78854 ] ],
