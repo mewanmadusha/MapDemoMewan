@@ -3,6 +3,6 @@
     "type" : "Feature", 
     "geometry" : {
        "type": "LineString", "coordinates": [ [ 40, 5 ], [ 41, 6 ] ] 
-    }, 
+    }
 
 }]}
