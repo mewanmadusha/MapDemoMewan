@@ -26,8 +26,8 @@
                     ]
                 },
                     "properties": {
-        "subType": "Circle",
-        "radius": 100
+                        "name": "Dinagat Islands",
+                        "radius": 100
     }
             }
         ]
