@@ -5,6 +5,7 @@
     },
   "properties": {
       "subType":"Circle",
+      "fill": "#555555",
     "radius": 100
   },
     "style": {
