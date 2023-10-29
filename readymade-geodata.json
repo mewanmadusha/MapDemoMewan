@@ -4,6 +4,7 @@
       {
         "type": "Feature",
         "properties": {
+          "fill": "black",
           "shape": "Circle",
           "radius": 80,
           "name": "Unnamed Layer 1",
