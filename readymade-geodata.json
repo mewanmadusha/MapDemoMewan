@@ -6,7 +6,13 @@
   "properties": {
       "subType":"Circle",
     "radius": 100
-  }
+  },
+    "style": {
+        "__comment": "all SVG styles allowed",
+        "fill":"red",
+        "stroke-width":"3",
+        "fill-opacity":0.6
+    }
 
 
 }]}
