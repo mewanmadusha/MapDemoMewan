@@ -1,11 +1,20 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "circle",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [37.887051, 55.677584]
-        }
-      }]
-}
+
+{ "type": "FeatureCollection", "features": [
+{ 
+    "type" : "Feature", 
+    "geometry" : {
+  "type": "MultiPoint",
+  "coordinates": [
+     [ -73.9580, 40.8003 ],
+     [ -72.9498, 40.7968 ],
+     [ -74.9737, 40.7648 ],
+     [ -76.9814, 40.7681 ]
+  ]
+},
+        "properties": {
+        "subType": "Circle",
+        "radius": 100
+    }
+
+}]}
