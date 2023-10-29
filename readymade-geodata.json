@@ -2,14 +2,7 @@
     "type": "FeatureCollection",
     "features": [
       {
-        "type": "Circle",
-        "properties": {
-          "fill": "black",
-          "shape": "Circle",
-          "radius": 80,
-          "name": "Unnamed Layer 1",
-          "category": "default"
-        },
+        "type": "circle",
         "geometry": {
           "type": "Point",
           "coordinates": [37.887051, 55.677584]
