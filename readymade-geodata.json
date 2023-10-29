@@ -3,7 +3,7 @@
   "geometries": [
      {
        "type": "LineString",
-       "coordinates": [ [ -73, 40 ], [ -73.5, 40.5 ] ]
+       "coordinates": [ [ -73.80, 40.80 ], [ -73.5, 40.5 ] ]
      },
      {
        "type": "MultiPolygon",
