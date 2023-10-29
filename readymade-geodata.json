@@ -24,7 +24,11 @@
                             40.7681
                         ]
                     ]
-                }
+                },
+                    "properties": {
+        "subType": "Circle",
+        "radius": 100
+    }
             }
         ]
     }
