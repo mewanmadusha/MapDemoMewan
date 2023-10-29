@@ -3,11 +3,11 @@
     "type" : "Feature", 
     "geometry" : [{
        "type": "LineString",
-       "coordinates": [ [ -73, 42 ], [ -73, 45 ] ] 
+       "coordinates": [ [ 40, 5 ], [ 42, 6 ] ] 
      },
      {
        "type": "LineString",
-       "coordinates": [ [ -73, 42 ], [ -73, 45 ] ] 
+       "coordinates": [ [ 40, 5 ], [ 43, 7 ] ] 
      }
     ]
 
