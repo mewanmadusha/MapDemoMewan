@@ -4,6 +4,7 @@
     "geometry": { "type": "Point", "coordinates": [-74.008317, 40.72251] 
     },
   "properties": {
+      "stroke": "#555555",
       "subType":"Circle",
       "fill": "#f44336",
     "radius": 100
