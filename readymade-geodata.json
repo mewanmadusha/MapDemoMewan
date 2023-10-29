@@ -2,7 +2,7 @@
     "type": "FeatureCollection",
     "features": [
       {
-        "type": "Feature",
+        "type": "Circle",
         "properties": {
           "fill": "black",
           "shape": "Circle",
